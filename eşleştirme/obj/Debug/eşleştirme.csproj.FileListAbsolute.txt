@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\KORUMASIZ\rabia\eşleştirme\eşleştirme\bin\Debug\eşleştirme.exe.config
+C:\Users\User\Desktop\KORUMASIZ\rabia\eşleştirme\eşleştirme\bin\Debug\eşleştirme.exe
+C:\Users\User\Desktop\KORUMASIZ\rabia\eşleştirme\eşleştirme\bin\Debug\eşleştirme.pdb
+C:\Users\User\Desktop\KORUMASIZ\rabia\eşleştirme\eşleştirme\obj\Debug\eşleştirme.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\KORUMASIZ\rabia\eşleştirme\eşleştirme\obj\Debug\eşleştirme.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\KORUMASIZ\rabia\eşleştirme\eşleştirme\obj\Debug\eşleştirme.Form1.resources
+C:\Users\User\Desktop\KORUMASIZ\rabia\eşleştirme\eşleştirme\obj\Debug\eşleştirme.Properties.Resources.resources
+C:\Users\User\Desktop\KORUMASIZ\rabia\eşleştirme\eşleştirme\obj\Debug\eşleştirme.csproj.GenerateResource.cache
+C:\Users\User\Desktop\KORUMASIZ\rabia\eşleştirme\eşleştirme\obj\Debug\eşleştirme.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\KORUMASIZ\rabia\eşleştirme\eşleştirme\obj\Debug\eşleştirme.exe
+C:\Users\User\Desktop\KORUMASIZ\rabia\eşleştirme\eşleştirme\obj\Debug\eşleştirme.pdb
